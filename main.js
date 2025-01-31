@@ -1,6 +1,6 @@
 let user = {}
 
-for(let i = 1;i <=3;i++){
+for(let i = 1;i <=10;i++){
     let userName = prompt('Введите имя')
     let age = prompt('Введите возраст')
     user.Name = userName
